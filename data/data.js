@@ -4,7 +4,7 @@ window.portfolioData = {
         "role": "AI/ML Engineer & Backend Architect",
         "tagline": "Building intelligent systems that scale—from AI models to production microservices.",
         "about": "AI/ML Engineer and Backend Architect specializing in deploying production-ready intelligent systems. Proven track record of architecting scalable microservices, implementing advanced AI solutions (LLMs, Computer Vision, OCR), and leading DevOps initiatives. Strong expertise in cloud infrastructure (AWS, GCP), Kubernetes orchestration, and building cost-effective solutions. Collaborative team player with experience in code reviews, production releases, and maintaining engineering standards across Python and DevOps repositories.",
-        "location": "Chromepet, India",
+        "location": "Chennai, India",
         "email": "amail2mohangandhi@gmail.com",
         "phone": "+91 8248569508",
         "github": "https://github.com/MohanGandhiS",
